@@ -1,0 +1,32 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/game/game.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/manager/UserManager.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Main.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/manager/AudioManager.js",
+		"bin-debug/manager/ConfigManager.js",
+		"bin-debug/manager/EventManager.js",
+		"bin-debug/manager/LayerManager.js",
+		"bin-debug/manager/PanelManager.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/platfroms/Platform.js",
+		"bin-debug/platfroms/Platfrom_WX.js",
+		"bin-debug/utils/App.js",
+		"bin-debug/utils/UIBase.js",
+		"bin-debug/utils/Utils.js",
+		"bin-debug/WeChat/AdHelper.js",
+		"bin-debug/WeChat/ShareHelper.js",
+		"bin-debug/WeChat/WXHelper.js",
+		"bin-debug/WeChat/WXVideoAd.js"
+	]
+}
